@@ -1,5 +1,5 @@
 # Falcon opensource projects - shell script
--------------------------------------------
+
 This project provides solution through shell scripts on various real-time scenarios.
 
 Jump to:
