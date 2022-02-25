@@ -16,7 +16,12 @@ Getting Help
 
 Scenoarios
 ----------
-### BASH loop
-- Running BASH loop batch by batch.
-- Running BASH loop process in parallel
-
+## BASH loop
+###- Running BASH loop batch by batch
+**Background**
+**Source**
+**Example**
+###- Running BASH loop process in parallel
+###Background
+###Source
+###Example
